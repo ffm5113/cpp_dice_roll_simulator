@@ -40,7 +40,4 @@ int main()
 * Die # 1: 2
 * Die # 2: 6
 * Rolled number : 8
-*
-* C:\Users\Forrest\cmpsc121\homework\Activity14-DiceRollSimulator\x64\Debug\Activity14-DiceRollSimulator.exe (process 29348)
-* exited with code 0.
 */
