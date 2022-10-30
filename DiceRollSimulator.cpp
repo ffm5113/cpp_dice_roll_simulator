@@ -39,5 +39,5 @@ int main()
 *
 * Die # 1: 2
 * Die # 2: 6
-* Rolled number : 8
+* Rolled number: 8
 */
