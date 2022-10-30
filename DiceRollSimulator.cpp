@@ -17,7 +17,7 @@ const string AUTHOR_LINE = "By Forrest Moulin";
 int main()
 {
     // Seed the random number generator
-// using current time
+    // using current time
     srand(time(NULL));
     int die1, die2;
     // Random number 0 to 5, ++ (1-6)
@@ -30,7 +30,7 @@ int main()
 
     cout << "Die # 1: " << die1 << endl;
     cout << "Die # 2: " << die2 << endl;
-    cout << "Rolled number : " << rolledNum << endl;
+    cout << "Rolled number: " << rolledNum << endl;
 }
 /*
 * CONSOLE OUTPUT
